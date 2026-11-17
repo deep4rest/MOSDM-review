@@ -1,0 +1,30 @@
+\begin{table}[H]
+\centering
+\caption{长期准则与模型、数据条件下的求解路线}
+\label{tab:solver-routes}
+\begingroup
+\zihao{5}\songti
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.18}
+\setlength{\reviewtablewidth}{\dimexpr\textwidth-6\tabcolsep\relax}
+\begin{tabular}{@{}P{0.25\reviewtablewidth}P{0.25\reviewtablewidth}P{0.25\reviewtablewidth}P{0.25\reviewtablewidth}@{}}
+\toprule
+准则与关键信息 & 模型可用 & 允许交互 & 固定历史数据 \\
+\midrule
+期望可加标量准则\newline 固定取舍、Markov 信息 & 标量动态规划\cite{hayes2022}\newline 转移与回报模型 & 标量回报学习\cite{hayes2022}\newline 探索与采样条件 & 重标奖励后学习\cite{zhu2023}\newline 原始回报与行为支持 \\
+\addlinespace[7pt]
+非线性 SER\newline 期望向量、策略随机化 & 凹效用占用优化\cite{zhang2020general}\newline 有限状态动作等条件 & 整体期望处组合梯度\cite{agarwal2022nonlinear}\newline 区分理论与深度实现 & FairDICE\cite{kim2025fairdice}\newline 凹福利的正则占用优化 \\
+\addlinespace[7pt]
+非线性累计结果 ESR\newline 累计量、时间、效用信息 & 扩展状态近似规划\cite{peng2025esr}\newline 有限模型、连续效用；或模拟搜索\cite{hayes2023} & 累计状态与效用增量\cite{cai2023dpmorl}\newline 有限时域下保持目标 & AETDICE\cite{kim2026aetdice}\newline 增广状态上的正则优化与数据支持 \\
+\addlinespace[7pt]
+优先关系\newline 次序、容差、估计误差 & LMDP 逐层限动作\cite{wray2015lmdp}\newline 容差与分区条件 & 词典序价值或策略更新\cite{skalse2022}\newline 充分访问、适当容差 & 本文未作\newline 专门方法比较 \\
+\addlinespace[7pt]
+期望结果约束\newline 目标、可行域、随机化 & 约束查询与可达集逼近\cite{forejt2012pareto} & CPO\cite{achiam2017}\newline 期望成本约束下的策略更新 & PEDI\cite{wu2021pedi}\newline 凸成本、目标集及数据支持 \\
+\addlinespace[7pt]
+路径概率或联合达标\newline 事件、记忆、联合信息 & 概率性质合成\cite{etessami2008modelchecking}\newline 可能需记忆与随机化 & 按指定事件评价和更新；本文未作专门比较 & 事件可恢复、策略有支持；均值保护不等于概率保证 \\
+\bottomrule
+\end{tabular}
+\par\vspace{4pt}\raggedright\noindent
+注：各行可组合，信息条件也可交叉；完整条件见第~\ref{sec:solving-model}--\ref{sec:solving-offline}~节。标量化仍须匹配时间结构并保留独立约束；ESR 近似规划中的效用要求一致连续。FairDICE、AETDICE 含分布散度正则，AETDICE 为预印本。未列专门方法不表示该方向不存在方法。
+\par\endgroup
+\end{table}

@@ -1,0 +1,81 @@
+{
+  "type": "survey schematics; no quantitative data or performance ranking",
+  "figures": [
+    {
+      "id": "F1",
+      "file": "problem_overview",
+      "claim": "Policy execution produces long-term results; a given preference participates in the comparison criterion.",
+      "position": "after sec:framework-model, before sec:framework-dimensions",
+      "sources": [
+        "hayes2022"
+      ],
+      "nodes": [
+        "decision policy",
+        "environment",
+        "vector reward",
+        "long-term result",
+        "given preference",
+        "criterion"
+      ],
+      "edges": [
+        "policy -> environment: action",
+        "environment -> policy: available information",
+        "environment -> vector reward -> temporal aggregation -> long-term result",
+        "long-term result -> policy-induced distribution -> criterion",
+        "given preference -> criterion"
+      ]
+    },
+    {
+      "id": "F2",
+      "file": "solver_taxonomy",
+      "claim": "Information conditions organize representative solver mechanisms without making mutually exclusive categories.",
+      "position": "before sec:solving-model",
+      "groups": {
+        "model available": [
+          "recursive planning",
+          "simulation search",
+          "mathematical programming and policy synthesis",
+          "rolling optimization"
+        ],
+        "interaction allowed": [
+          "value learning",
+          "policy optimization"
+        ],
+        "fixed historical data": [
+          "baseline protection and candidate testing",
+          "pessimistic dual optimization",
+          "regularized occupancy optimization"
+        ]
+      },
+      "sources": [
+        "peng2025esr",
+        "hayes2023",
+        "forejt2012pareto",
+        "gruene2019",
+        "skalse2022",
+        "satija2021mospibb",
+        "wu2021pedi",
+        "kim2025fairdice",
+        "kim2026aetdice"
+      ],
+      "qualification": "non-exhaustive; criteria cross-cut mechanisms; model learning can use online or offline data"
+    },
+    {
+      "id": "F3",
+      "file": "preference_reuse",
+      "claim": "Independent solving, candidate sets, and conditional representations organize queries differently.",
+      "position": "after sec:solving-reuse introduction, before its first subsubsection",
+      "paths": [
+        "given preference -> single-preference solver -> policy",
+        "given preference -> candidate library query -> criterion-based selection or improvement -> policy",
+        "given preference -> preference or chosen target input -> shared conditional value/policy model -> policy"
+      ],
+      "sources": [
+        "barreto2017sf",
+        "reymond2022pcn",
+        "zhu2023"
+      ],
+      "qualification": "whole-policy selection differs from GPI; target return differs from preference; no speed or quality ordering"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="453.543307pt" height="307pt" viewBox="0 0 453.543307 307" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-26T18:37:52.974751</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 307  L 453.543307 307  L 453.543307 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="component-0-0"><title>规划与控制</title><g id="component-0-0-shape">
+    <path d="M 10.16378 42.98  L 142.793701 42.98  Q 144.793701 42.98 144.793701 44.98  L 144.793701 68.98  Q 144.793701 70.98 142.793701 70.98  L 10.16378 70.98  Q 8.16378 70.98 8.16378 68.98  L 8.16378 44.98  Q 8.16378 42.98 10.16378 42.98  z " clip-path="url(#pefb01bdf1f)" style="fill: #eaf1f5" />
+   </g>
+   <g id="label-0-3">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="76.47874" y="60.072578" transform="rotate(-0 76.47874 60.072578)" font-size="10.5">规划与控制</text>
+   </g>
+   </g><g id="patch_2">
+    <path d="M 17.16378 89.48  C 17.561584 89.48 17.943149 89.638049 18.22444 89.91934  C 18.50573 90.20063 18.66378 90.582195 18.66378 90.98  C 18.66378 91.377805 18.50573 91.75937 18.22444 92.04066  C 17.943149 92.321951 17.561584 92.48 17.16378 92.48  C 16.765975 92.48 16.38441 92.321951 16.103119 92.04066  C 15.821829 91.75937 15.66378 91.377805 15.66378 90.98  C 15.66378 90.582195 15.821829 90.20063 16.103119 89.91934  C 16.38441 89.638049 16.765975 89.48 17.16378 89.48  z " clip-path="url(#pefb01bdf1f)" style="fill: #356b8c" />
+   </g>
+   <g id="patch_3">
+    <path d="M 17.16378 132.48  C 17.561584 132.48 17.943149 132.638049 18.22444 132.91934  C 18.50573 133.20063 18.66378 133.582195 18.66378 133.98  C 18.66378 134.377805 18.50573 134.75937 18.22444 135.04066  C 17.943149 135.321951 17.561584 135.48 17.16378 135.48  C 16.765975 135.48 16.38441 135.321951 16.103119 135.04066  C 15.821829 134.75937 15.66378 134.377805 15.66378 133.98  C 15.66378 133.582195 15.821829 133.20063 16.103119 132.91934  C 16.38441 132.638049 16.765975 132.48 17.16378 132.48  z " clip-path="url(#pefb01bdf1f)" style="fill: #356b8c" />
+   </g>
+   <g id="patch_4">
+    <path d="M 17.16378 175.48  C 17.561584 175.48 17.943149 175.638049 18.22444 175.91934  C 18.50573 176.20063 18.66378 176.582195 18.66378 176.98  C 18.66378 177.377805 18.50573 177.75937 18.22444 178.04066  C 17.943149 178.321951 17.561584 178.48 17.16378 178.48  C 16.765975 178.48 16.38441 178.321951 16.103119 178.04066  C 15.821829 177.75937 15.66378 177.377805 15.66378 176.98  C 15.66378 176.582195 15.821829 176.20063 16.103119 175.91934  C 16.38441 175.638049 16.765975 175.48 17.16378 175.48  z " clip-path="url(#pefb01bdf1f)" style="fill: #356b8c" />
+   </g>
+   <g id="patch_5">
+    <path d="M 17.16378 218.48  C 17.561584 218.48 17.943149 218.638049 18.22444 218.91934  C 18.50573 219.20063 18.66378 219.582195 18.66378 219.98  C 18.66378 220.377805 18.50573 220.75937 18.22444 221.04066  C 17.943149 221.321951 17.561584 221.48 17.16378 221.48  C 16.765975 221.48 16.38441 221.321951 16.103119 221.04066  C 15.821829 220.75937 15.66378 220.377805 15.66378 219.98  C 15.66378 219.582195 15.821829 219.20063 16.103119 218.91934  C 16.38441 218.638049 16.765975 218.48 17.16378 218.48  z " clip-path="url(#pefb01bdf1f)" style="fill: #356b8c" />
+   </g>
+   <g id="line2d_1">
+    <path d="M 17.16378 88.98  L 17.16378 225.98  " clip-path="url(#pefb01bdf1f)" style="fill: none; stroke: #356b8c; stroke-width: 0.85" />
+   </g>
+   <g id="line2d_2">
+    <path d="M 17.16378 90.98  L 26.16378 90.98  " clip-path="url(#pefb01bdf1f)" style="fill: none; stroke: #356b8c; stroke-width: 0.85" />
+   </g>
+   <g id="line2d_3">
+    <path d="M 17.16378 133.98  L 26.16378 133.98  " clip-path="url(#pefb01bdf1f)" style="fill: none; stroke: #356b8c; stroke-width: 0.85" />
+   </g>
+   <g id="line2d_4">
+    <path d="M 17.16378 176.98  L 26.16378 176.98  " clip-path="url(#pefb01bdf1f)" style="fill: none; stroke: #356b8c; stroke-width: 0.85" />
+   </g>
+   <g id="line2d_5">
+    <path d="M 17.16378 219.98  L 26.16378 219.98  " clip-path="url(#pefb01bdf1f)" style="fill: none; stroke: #356b8c; stroke-width: 0.85" />
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700;  font-family: 'Latin Modern Roman'; text-anchor: start; fill: #202020" x="8.16378" y="34.98" transform="rotate(-0 8.16378 34.98)" font-size="10.5">a</text>
+   </g>
+   <g id="text_2">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="23.16378" y="34.98" transform="rotate(-0 23.16378 34.98)" font-size="10.5">模型可用</text>
+   </g>
+   <g id="label-0-4">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="33.16378" y="94.13" transform="rotate(-0 33.16378 94.13)" font-size="10.5">递推规划</text>
+   </g>
+   <g id="label-0-5">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="33.16378" y="111.7625" transform="rotate(-0 33.16378 111.7625)" font-size="10.5">标量／扩展状态</text>
+   </g>
+   <g id="label-0-6">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="33.16378" y="137.088164" transform="rotate(-0 33.16378 137.088164)" font-size="10.5">模拟搜索</text>
+   </g>
+   <g id="label-0-7">
+    <text style="font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #202020" x="33.16378" y="155.565586" transform="rotate(-0 33.16378 155.565586)" font-size="10.5">NLU-MCTS · DMCTS</text>
+   </g>
+   <g id="label-0-8">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="33.16378" y="180.114414" transform="rotate(-0 33.16378 180.114414)" font-size="10.5">数学规划与策略合成</text>
+   </g>
+   <g id="label-0-9">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="33.16378" y="197.7625" transform="rotate(-0 33.16378 197.7625)" font-size="10.5">占用测度／可达集</text>
+   </g>
+   <g id="label-0-10">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="33.16378" y="223.13" transform="rotate(-0 33.16378 223.13)" font-size="10.5">滚动优化</text>
+   </g>
+   <g id="label-0-11">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="33.16378" y="241.203008" transform="rotate(-0 33.16378 241.203008)" font-size="10.5">多目标 MPC</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="component-1-0"><title>策略学习</title><g id="component-1-0-shape">
+    <path d="M 160.456693 42.98  L 293.086614 42.98  Q 295.086614 42.98 295.086614 44.98  L 295.086614 68.98  Q 295.086614 70.98 293.086614 70.98  L 160.456693 70.98  Q 158.456693 70.98 158.456693 68.98  L 158.456693 44.98  Q 158.456693 42.98 160.456693 42.98  z " clip-path="url(#p84f2ab0493)" style="fill: #edf5f2" />
+   </g>
+   <g id="label-1-3">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="226.771654" y="60.071758" transform="rotate(-0 226.771654 60.071758)" font-size="10.5">策略学习</text>
+   </g>
+   </g><g id="patch_6">
+    <path d="M 167.456693 89.48  C 167.854498 89.48 168.236063 89.638049 168.517353 89.91934  C 168.798643 90.20063 168.956693 90.582195 168.956693 90.98  C 168.956693 91.377805 168.798643 91.75937 168.517353 92.04066  C 168.236063 92.321951 167.854498 92.48 167.456693 92.48  C 167.058888 92.48 166.677323 92.321951 166.396033 92.04066  C 166.114742 91.75937 165.956693 91.377805 165.956693 90.98  C 165.956693 90.582195 166.114742 90.20063 166.396033 89.91934  C 166.677323 89.638049 167.058888 89.48 167.456693 89.48  z " clip-path="url(#p84f2ab0493)" style="fill: #43877f" />
+   </g>
+   <g id="patch_7">
+    <path d="M 167.456693 175.48  C 167.854498 175.48 168.236063 175.638049 168.517353 175.91934  C 168.798643 176.20063 168.956693 176.582195 168.956693 176.98  C 168.956693 177.377805 168.798643 177.75937 168.517353 178.04066  C 168.236063 178.321951 167.854498 178.48 167.456693 178.48  C 167.058888 178.48 166.677323 178.321951 166.396033 178.04066  C 166.114742 177.75937 165.956693 177.377805 165.956693 176.98  C 165.956693 176.582195 166.114742 176.20063 166.396033 175.91934  C 166.677323 175.638049 167.058888 175.48 167.456693 175.48  z " clip-path="url(#p84f2ab0493)" style="fill: #43877f" />
+   </g>
+   <g id="line2d_6">
+    <path d="M 167.456693 88.98  L 167.456693 225.98  " clip-path="url(#p84f2ab0493)" style="fill: none; stroke: #43877f; stroke-width: 0.85" />
+   </g>
+   <g id="line2d_7">
+    <path d="M 167.456693 90.98  L 176.456693 90.98  " clip-path="url(#p84f2ab0493)" style="fill: none; stroke: #43877f; stroke-width: 0.85" />
+   </g>
+   <g id="line2d_8">
+    <path d="M 167.456693 176.98  L 176.456693 176.98  " clip-path="url(#p84f2ab0493)" style="fill: none; stroke: #43877f; stroke-width: 0.85" />
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700;  font-family: 'Latin Modern Roman'; text-anchor: start; fill: #202020" x="158.456693" y="34.98" transform="rotate(-0 158.456693 34.98)" font-size="10.5">b</text>
+   </g>
+   <g id="text_4">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="173.456693" y="34.98" transform="rotate(-0 173.456693 34.98)" font-size="10.5">允许交互</text>
+   </g>
+   <g id="label-1-4">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="183.456693" y="94.10375" transform="rotate(-0 183.456693 94.10375)" font-size="10.5">价值学习</text>
+   </g>
+   <g id="label-1-5">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="183.456693" y="111.794492" transform="rotate(-0 183.456693 111.794492)" font-size="10.5">标量／向量价值</text>
+   </g>
+   <g id="label-1-6">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="183.456693" y="180.087344" transform="rotate(-0 183.456693 180.087344)" font-size="10.5">策略优化</text>
+   </g>
+   <g id="label-1-7">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="183.456693" y="197.778086" transform="rotate(-0 183.456693 197.778086)" font-size="10.5">策略梯度／直接搜索</text>
+   </g>
+   <g id="label-1-8">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="183.456693" y="216.114414" transform="rotate(-0 183.456693 216.114414)" font-size="10.5">含 actor–critic</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="component-2-0"><title>离线策略改进</title><g id="component-2-0-shape">
+    <path d="M 310.749606 42.98  L 443.379528 42.98  Q 445.379528 42.98 445.379528 44.98  L 445.379528 68.98  Q 445.379528 70.98 443.379528 70.98  L 310.749606 70.98  Q 308.749606 70.98 308.749606 68.98  L 308.749606 44.98  Q 308.749606 42.98 310.749606 42.98  z " clip-path="url(#p47ff3893c3)" style="fill: #f7eee5" />
+   </g>
+   <g id="label-2-3">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="377.064567" y="60.13" transform="rotate(-0 377.064567 60.13)" font-size="10.5">离线策略改进</text>
+   </g>
+   </g><g id="patch_8">
+    <path d="M 317.749606 89.48  C 318.147411 89.48 318.528976 89.638049 318.810266 89.91934  C 319.091557 90.20063 319.249606 90.582195 319.249606 90.98  C 319.249606 91.377805 319.091557 91.75937 318.810266 92.04066  C 318.528976 92.321951 318.147411 92.48 317.749606 92.48  C 317.351802 92.48 316.970236 92.321951 316.688946 92.04066  C 316.407656 91.75937 316.249606 91.377805 316.249606 90.98  C 316.249606 90.582195 316.407656 90.20063 316.688946 89.91934  C 316.970236 89.638049 317.351802 89.48 317.749606 89.48  z " clip-path="url(#p47ff3893c3)" style="fill: #a56d43" />
+   </g>
+   <g id="patch_9">
+    <path d="M 317.749606 153.48  C 318.147411 153.48 318.528976 153.638049 318.810266 153.91934  C 319.091557 154.20063 319.249606 154.582195 319.249606 154.98  C 319.249606 155.377805 319.091557 155.75937 318.810266 156.04066  C 318.528976 156.321951 318.147411 156.48 317.749606 156.48  C 317.351802 156.48 316.970236 156.321951 316.688946 156.04066  C 316.407656 155.75937 316.249606 155.377805 316.249606 154.98  C 316.249606 154.582195 316.407656 154.20063 316.688946 153.91934  C 316.970236 153.638049 317.351802 153.48 317.749606 153.48  z " clip-path="url(#p47ff3893c3)" style="fill: #a56d43" />
+   </g>
+   <g id="patch_10">
+    <path d="M 317.749606 218.48  C 318.147411 218.48 318.528976 218.638049 318.810266 218.91934  C 319.091557 219.20063 319.249606 219.582195 319.249606 219.98  C 319.249606 220.377805 319.091557 220.75937 318.810266 221.04066  C 318.528976 221.321951 318.147411 221.48 317.749606 221.48  C 317.351802 221.48 316.970236 221.321951 316.688946 221.04066  C 316.407656 220.75937 316.249606 220.377805 316.249606 219.98  C 316.249606 219.582195 316.407656 219.20063 316.688946 218.91934  C 316.970236 218.638049 317.351802 218.48 317.749606 218.48  z " clip-path="url(#p47ff3893c3)" style="fill: #a56d43" />
+   </g>
+   <g id="line2d_9">
+    <path d="M 317.749606 88.98  L 317.749606 225.98  " clip-path="url(#p47ff3893c3)" style="fill: none; stroke: #a56d43; stroke-width: 0.85" />
+   </g>
+   <g id="line2d_10">
+    <path d="M 317.749606 90.98  L 326.749606 90.98  " clip-path="url(#p47ff3893c3)" style="fill: none; stroke: #a56d43; stroke-width: 0.85" />
+   </g>
+   <g id="line2d_11">
+    <path d="M 317.749606 154.98  L 326.749606 154.98  " clip-path="url(#p47ff3893c3)" style="fill: none; stroke: #a56d43; stroke-width: 0.85" />
+   </g>
+   <g id="line2d_12">
+    <path d="M 317.749606 219.98  L 326.749606 219.98  " clip-path="url(#p47ff3893c3)" style="fill: none; stroke: #a56d43; stroke-width: 0.85" />
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700;  font-family: 'Latin Modern Roman'; text-anchor: start; fill: #202020" x="308.749606" y="34.98" transform="rotate(-0 308.749606 34.98)" font-size="10.5">c</text>
+   </g>
+   <g id="text_6">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="323.749606" y="34.98" transform="rotate(-0 323.749606 34.98)" font-size="10.5">固定历史数据</text>
+   </g>
+   <g id="label-2-4">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="333.749606" y="94.139844" transform="rotate(-0 333.749606 94.139844)" font-size="10.5">基线保护与候选检验</text>
+   </g>
+   <g id="label-2-5">
+    <text style="font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #202020" x="333.749606" y="112.565586" transform="rotate(-0 333.749606 112.565586)" font-size="10.5">MO-SPIBB · MO-HCPI</text>
+   </g>
+   <g id="label-2-6">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="333.749606" y="158.071758" transform="rotate(-0 333.749606 158.071758)" font-size="10.5">悲观对偶优化</text>
+   </g>
+   <g id="label-2-7">
+    <text style="font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #202020" x="333.749606" y="176.565586" transform="rotate(-0 333.749606 176.565586)" font-size="10.5">PEDI</text>
+   </g>
+   <g id="label-2-8">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: start; fill: #202020" x="333.749606" y="223.025" transform="rotate(-0 333.749606 223.025)" font-size="10.5">正则占用优化</text>
+   </g>
+   <g id="label-2-9">
+    <text style="font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: start; fill: #202020" x="333.749606" y="241.623008" transform="rotate(-0 333.749606 241.623008)" font-size="10.5">FairDICE · AETDICE</text>
+   </g>
+  </g>
+  <g id="text_7">
+   <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="226.771654" y="17.366" transform="rotate(-0 226.771654 17.366)" font-size="10.5">给定偏好与长期准则</text>
+  </g>
+  <g id="text_8">
+   <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="226.771654" y="272.759" transform="rotate(-0 226.771654 272.759)" font-size="10.5">模型可由机理知识、交互数据或固定数据获得</text>
+  </g>
+  <g id="text_9">
+   <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="226.771654" y="296.398" transform="rotate(-0 226.771654 296.398)" font-size="10.5">准则属性与求解机制交叉；图示为代表性方法族</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pefb01bdf1f">
+   <rect x="8.16378" y="42.98" width="136.629921" height="202.62" />
+  </clipPath>
+  <clipPath id="p84f2ab0493">
+   <rect x="158.456693" y="42.98" width="136.629921" height="202.62" />
+  </clipPath>
+  <clipPath id="p47ff3893c3">
+   <rect x="308.749606" y="42.98" width="136.629921" height="202.62" />
+  </clipPath>
+ </defs>
+</svg>

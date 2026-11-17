@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="453.543307pt" height="240pt" viewBox="0 0 453.543307 240" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-26T18:37:52.454703</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 240  L 453.543307 240  L 453.543307 0  L 0 0  z " style="fill: #ffffff" />
+  </g>
+  <g id="axes_1">
+   <g id="component-0-0"><title>决策策略 / $\pi$</title><g id="component-0-0-shape">
+    <path d="M 9 45  L 91 45  Q 92 45 92 46  L 92 92  Q 92 93 91 93  L 9 93  Q 8 93 8 92  L 8 46  Q 8 45 9 45  z " clip-path="url(#pa6822b5f62)" style="fill: #eaf1f5; stroke: #356b8c; stroke-width: 0.7; stroke-linejoin: miter" />
+   </g>
+   <g id="label-0-1">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="50" y="63.091758" transform="rotate(-0 50 63.091758)" font-size="10.5">决策策略</text>
+   </g>
+   <g id="label-0-2">
+    
+    <g style="fill: #202020" transform="translate(47.0075 81.205)">
+     <text>
+      <tspan x="0" y="-0.46875" style="font-family: 'cmmi10'; fill: #202020" font-size="10.5">¼</tspan>
+     </text>
+    </g>
+   </g>
+   </g><g id="component-0-1"><title>环境</title><g id="component-0-1-shape">
+    <path d="M 150 45  L 232 45  Q 233 45 233 46  L 233 92  Q 233 93 232 93  L 150 93  Q 149 93 149 92  L 149 46  Q 149 45 150 45  z " clip-path="url(#pa6822b5f62)" style="fill: #ffffff; stroke: #73808a; stroke-width: 0.7; stroke-linejoin: miter" />
+   </g>
+   <g id="label-0-3">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="191" y="72.186094" transform="rotate(-0 191 72.186094)" font-size="10.5">环境</text>
+   </g>
+   </g><g id="patch_2">
+    <path d="M 96 69  Q 120.5 69 143.881966 69  " clip-path="url(#pa6822b5f62)" style="fill: none; stroke: #356b8c; stroke-linecap: round" />
+    <path d="M 140.681966 67.4  L 143.881966 69  L 140.681966 70.6  z " clip-path="url(#pa6822b5f62)" style="fill: #356b8c; stroke: #356b8c; stroke-linecap: round" />
+   </g>
+   <g id="patch_3">
+    <path d="M 191 93  L 191 111  Q 191 121 181 121  L 60 121  Q 50 121 50 111  L 50 98.006231  " clip-path="url(#pa6822b5f62)" style="fill: none; stroke: #73808a; stroke-width: 0.9; stroke-linecap: round" />
+    <path d="M 48.4 101.206231  L 50 98.006231  L 51.6 101.206231  z " clip-path="url(#pa6822b5f62)" style="fill: #73808a; stroke: #73808a; stroke-width: 0.9; stroke-linecap: round" />
+   </g>
+   <g id="patch_4">
+    <path d="M 237 69  Q 247.5 69 257.049671 69  " clip-path="url(#pa6822b5f62)" style="fill: none; stroke: #73808a; stroke-width: 0.85; stroke-linecap: round" />
+    <path d="M 253.849671 67.4  L 257.049671 69  L 253.849671 70.6  z " clip-path="url(#pa6822b5f62)" style="fill: #73808a; stroke: #73808a; stroke-width: 0.85; stroke-linecap: round" />
+   </g>
+   <g id="component-0-5">
+    <path d="M 265 48  L 288 48  Q 289 48 289 49  L 289 57  Q 289 58 288 58  L 265 58  Q 264 58 264 57  L 264 49  Q 264 48 265 48  z " clip-path="url(#pa6822b5f62)" style="fill: #356b8c" />
+   </g>
+   <g id="component-0-6">
+    <path d="M 265 64  L 288 64  Q 289 64 289 65  L 289 73  Q 289 74 288 74  L 265 74  Q 264 74 264 73  L 264 65  Q 264 64 265 64  z " clip-path="url(#pa6822b5f62)" style="fill: #43877f" />
+   </g>
+   <g id="component-0-7">
+    <path d="M 265 80  L 288 80  Q 289 80 289 81  L 289 89  Q 289 90 288 90  L 265 90  Q 264 90 264 89  L 264 81  Q 264 80 265 80  z " clip-path="url(#pa6822b5f62)" style="fill: #a56d43" />
+   </g>
+   <g id="patch_5">
+    <path d="M 294 69  Q 318 69 341.049671 69  " clip-path="url(#pa6822b5f62)" style="fill: none; stroke: #73808a; stroke-width: 0.85; stroke-linecap: round" />
+    <path d="M 337.849671 67.4  L 341.049671 69  L 337.849671 70.6  z " clip-path="url(#pa6822b5f62)" style="fill: #73808a; stroke: #73808a; stroke-width: 0.85; stroke-linecap: round" />
+   </g>
+   <g id="component-0-9"><title>长期结果 / 回报／轨迹特征</title><g id="component-0-9-shape">
+    <path d="M 348 45  L 445 45  Q 446 45 446 46  L 446 92  Q 446 93 445 93  L 348 93  Q 347 93 347 92  L 347 46  Q 347 45 348 45  z " clip-path="url(#pa6822b5f62)" style="fill: #edf5f2; stroke: #43877f; stroke-width: 0.7; stroke-linejoin: miter" />
+   </g>
+   <g id="label-0-10">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="396.5" y="63.145078" transform="rotate(-0 396.5 63.145078)" font-size="10.5">长期结果</text>
+   </g>
+   <g id="label-0-11">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="396.5" y="81.777578" transform="rotate(-0 396.5 81.777578)" font-size="10.5">回报／轨迹特征</text>
+   </g>
+   </g><g id="patch_6">
+    <path d="M 396.5 97  Q 396.5 138.5 396.5 178.881966  " clip-path="url(#pa6822b5f62)" style="fill: none; stroke: #43877f; stroke-linecap: round" />
+    <path d="M 398.1 175.681966  L 396.5 178.881966  L 394.9 175.681966  z " clip-path="url(#pa6822b5f62)" style="fill: #43877f; stroke: #43877f; stroke-linecap: round" />
+   </g>
+   <g id="component-0-11"><title>给定偏好 / $p$</title><g id="component-0-11-shape">
+    <path d="M 9 184  L 111 184  Q 112 184 112 185  L 112 231  Q 112 232 111 232  L 9 232  Q 8 232 8 231  L 8 185  Q 8 184 9 184  z " clip-path="url(#pa6822b5f62)" style="fill: #f7eee5; stroke: #a56d43; stroke-width: 0.7; stroke-linejoin: miter" />
+   </g>
+   <g id="label-0-14">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="60" y="202.166406" transform="rotate(-0 60 202.166406)" font-size="10.5">给定偏好</text>
+   </g>
+   <g id="label-0-15">
+    
+    <g style="fill: #202020" transform="translate(57.3225 219.3125)">
+     <text>
+      <tspan x="0" y="-0.359375" style="font-family: 'cmmi10'; fill: #202020" font-size="10.5">p</tspan>
+     </text>
+    </g>
+   </g>
+   </g><g id="patch_7">
+    <path d="M 116 208  Q 172 208 226.881966 208  " clip-path="url(#pa6822b5f62)" style="fill: none; stroke: #a56d43; stroke-linecap: round" />
+    <path d="M 223.681966 206.4  L 226.881966 208  L 223.681966 209.6  z " clip-path="url(#pa6822b5f62)" style="fill: #a56d43; stroke: #a56d43; stroke-linecap: round" />
+   </g>
+   <g id="component-0-13"><title>长期准则（含随机性处理） / $J_p(\pi)$</title><g id="component-0-13-shape">
+    <path d="M 234 184  L 445 184  Q 446 184 446 185  L 446 231  Q 446 232 445 232  L 234 232  Q 233 232 233 231  L 233 185  Q 233 184 234 184  z " clip-path="url(#pa6822b5f62)" style="fill: #f3f5f6; stroke: #73808a; stroke-width: 0.7; stroke-linejoin: miter" />
+   </g>
+   <g id="label-0-17">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="339.5" y="202.15" transform="rotate(-0 339.5 202.15)" font-size="10.5">长期准则（含随机性处理）</text>
+   </g>
+   <g id="label-0-18">
+    
+    <g style="fill: #202020" transform="translate(327.3725 220.415)">
+     <text>
+      <tspan x="0" y="-0.125" style="font-family: 'cmmi10'; fill: #202020" font-size="10.5">J</tspan>
+      <tspan x="14.192196" y="-0.125" style="font-family: 'cmmi10'; fill: #202020" font-size="10.5">¼</tspan>
+      <tspan x="5.819092" y="1.449996" style="font-family: 'cmmi10'; fill: #202020" font-size="7.35">p</tspan>
+      <tspan x="10.116269" y="-0.125" style="font-family: 'cmr10'; fill: #202020" font-size="10.5">(</tspan>
+      <tspan x="20.175351" y="-0.125" style="font-family: 'cmr10'; fill: #202020" font-size="10.5">)</tspan>
+     </text>
+    </g>
+   </g>
+  </g><g id="label-0-4">
+    
+    <g style="fill: #202020" transform="translate(115.59 54.5225)">
+     <text>
+      <tspan x="0" y="-0.359375" style="font-family: 'cmmi10'; fill: #202020" font-size="10.5">a</tspan>
+      <tspan x="5.542236" y="1.215621" style="font-family: 'cmmi10'; fill: #202020" font-size="7.35">t</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="label-0-5">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="108" y="141.233672" transform="rotate(-0 108 141.233672)" font-size="10.5">可用信息</text>
+   </g>
+   <g id="label-0-6">
+    
+    <g style="fill: #202020" transform="translate(142.3275 140.835)">
+     <text>
+      <tspan x="0" y="-0.71875" style="font-family: 'cmmi10'; fill: #202020" font-size="10.5">h</tspan>
+      <tspan x="6.049805" y="0.856246" style="font-family: 'cmmi10'; fill: #202020" font-size="7.35">t</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="label-0-7">
+    
+    <g style="fill: #202020" transform="translate(272.905 107.575)">
+     <text>
+      <tspan x="0" y="-0.265625" style="font-family: 'cmb10'; fill: #202020" font-size="10.5">r</tspan>
+      <tspan x="4.901408" y="1.309371" style="font-family: 'cmmi10'; fill: #202020" font-size="7.35">t</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="label-0-8">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="277" y="33.191836" transform="rotate(-0 277 33.191836)" font-size="10.5">多维回报</text>
+   </g>
+   <g id="label-0-9">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="319" y="49.144258" transform="rotate(-0 319 49.144258)" font-size="10.5">时间聚合</text>
+   </g>
+   <g id="label-0-12">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="318" y="136.118008" transform="rotate(-0 318 136.118008)" font-size="10.5">策略诱导的</text>
+   </g>
+   <g id="label-0-13">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="318" y="154.128672" transform="rotate(-0 318 154.128672)" font-size="10.5">结果分布</text>
+   </g>
+   <g id="label-0-16">
+    <text style="font-family: 'Latin Modern Roman', 'FandolSong'; text-anchor: middle; fill: #202020" x="172" y="195.108164" transform="rotate(-0 172 195.108164)" font-size="10.5">规定比较方式</text>
+   </g>
+   </g>
+ </g>
+ <defs>
+  <clipPath id="pa6822b5f62">
+   <rect x="0" y="0" width="453.543307" height="240" />
+  </clipPath>
+ </defs>
+</svg>

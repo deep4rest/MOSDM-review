@@ -1,0 +1,27 @@
+\begin{table}[H]
+\centering
+\caption{原长期准则所需的评价信息与离线估计条件}
+\label{tab:evaluation-information}
+\begingroup
+\zihao{5}\songti
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.18}
+\begin{tabularx}{\textwidth}{@{}P{0.15\textwidth}Y Y Y@{}}
+\toprule
+准则 & 评价对象 & 估计路线 & 关键边界 \\
+\midrule
+SER & 期望累计回报向量 & 逐目标估计均值，再代入效用\cite{jiang2016} & 非线性代入不自动无偏 \\
+\addlinespace[6pt]
+固定效用 ESR & 轨迹效用或充分信息 & 直接评价轨迹效用；必要时使用分布信息 & 均值不足；不必完整联合分布 \\
+\addlinespace[6pt]
+联合达标 & 同次轨迹的联合事件 & 事件概率，或适配的联合结果模型\cite{qi2025distributional} & 边缘概率不足；分布误差不自动保证阈值事件 \\
+\addlinespace[6pt]
+CVaR 等\newline 尾部指标 & 指定标量损失的分布与尾部 & 分布置信带，或分布估计后计算风险\cite{chandak2021,huang2022opra} & 明确损失、尾部概率、有界性和风险泛函条件 \\
+\addlinespace[6pt]
+轨迹特征\newline 或路径要求 & 事件、峰值、时长等统计量 & 从日志恢复轨迹特征，按原准则评价 & 累计向量未必保留发生次序与持续时长 \\
+\bottomrule
+\end{tabularx}
+\par\vspace{4pt}\raggedright\noindent
+注：共同检查目标策略支持、日志记录、尺度与初始分布、模型或函数类假设，以及训练和评价数据的关系。轨迹效用或事件的标量评价须匹配轨迹或扩展状态表示；历史依赖策略的概率比也须以相应信息为条件。
+\par\endgroup
+\end{table}

@@ -1,0 +1,27 @@
+\begin{table}[H]
+\centering
+\caption{长期决策准则的组成与语义检查}
+\label{tab:criterion-definition}
+\begingroup
+\zihao{5}\songti
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.18}
+\begin{tabularx}{\textwidth}{@{}P{0.17\textwidth}Y Y@{}}
+\toprule
+组成 & 核心问题 & 典型表达 \\
+\midrule
+偏好表达 & 目标之间如何取舍？ & 权重、效用、参考点、词典序 \\
+\addlinespace[4pt]
+长期评价对象 & 评价什么结果？ & 阶段结果、累计向量、峰值、路径事件 \\
+\addlinespace[4pt]
+时间聚合 & 各阶段如何合并？ & 阶段效用累积、累计结果效用、长期平均 \\
+\addlinespace[4pt]
+随机性处理 & 随机结果如何比较？ & SER、ESR、达标概率、指定损失的尾部风险 \\
+\midrule
+跨项检查 & 什么策略可接受或可行？ & 期望阈值、联合达标要求、物理可行域 \\
+\bottomrule
+\end{tabularx}
+\par\vspace{4pt}\raggedright\noindent
+注：前四项构成准则，末行为可接受性与可行性检查，各项可以组合。还须明确目标方向与尺度、时域与折扣、要求来源及不可满足时的处理。SER/ESR、优先关系与期望约束参见文献\cite{hayes2022,skalse2022,achiam2017}；相同阈值作用于不同对象时，可能定义不同问题。
+\par\endgroup
+\end{table}

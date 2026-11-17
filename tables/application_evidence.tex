@@ -1,0 +1,30 @@
+\begin{table}[H]
+\centering
+\caption{代表性应用的决策建模与验证条件}
+\label{tab:application-evidence}
+\begingroup
+\zihao{5}\songti
+\setlength{\tabcolsep}{5pt}
+\renewcommand{\arraystretch}{1.18}
+\setlength{\reviewtablewidth}{\dimexpr\textwidth-6\tabcolsep\relax}
+\begin{tabular}{@{}P{0.14\reviewtablewidth}P{0.30\reviewtablewidth}P{0.30\reviewtablewidth}P{0.26\reviewtablewidth}@{}}
+\toprule
+应用 & 目标、准则与表示 & 数据与验证 & 证据边界 \\
+\midrule
+基础设施\newline 维护\cite{remmerden2025} & 成本与倒塌概率；非线性 ESR；信念、累计量与联合分布 & 三类退化模型；含 Amsterdam 码头墙简化模型 & 模型环境中的维护决策；非长期现场部署 \\
+\addlinespace[7pt]
+节能驾驶\cite{he2023} & 效率与能耗；线性权重条件策略；训练含偏好对齐项 & SUMO 高速公路仿真；多种交通密度 & 仿真内偏好响应；碰撞惩罚非硬安全约束 \\
+\addlinespace[7pt]
+序贯治疗\cite{lizotte2012} & 症状、BMI、生活质量；线性取舍与多奖励 FQI & CATIE 随机试验简化子集；两阶段回顾分析 & 历史数据下的策略比较；非前瞻性临床获益 \\
+\addlinespace[7pt]
+水库运行\cite{castelletti2013water} & 发电与防洪；固定线性权重；条件价值与放水规则 & 模型和 1957--1978 年入流训练；1997--2004 年入流仿真检验 & 真实水库背景的模型实验；非纯被动日志学习 \\
+\addlinespace[7pt]
+服务器\newline 功率控制\cite{tesauro2007power} & 响应时间与功耗；固定取舍；阶段效用折扣累积 & 日志训练；刀片服务器集群与规定负载试验 & 有设备执行证据；非累计结果的非线性 ESR \\
+\addlinespace[7pt]
+湿式\newline 离合器\cite{brys2013clutch} & 接合时间与活塞速度；三类标量化；开环参数搜索 & 填充阶段 Simulink 模型；本篇仅仿真 & 标量化与搜索的影响；前作实机验证非本篇证据 \\
+\bottomrule
+\end{tabular}
+\par\vspace{4pt}\raggedright\noindent
+注：比较问题建模与证据条件，不作跨任务排名。真实背景、历史数据、仿真、设备试验与长期部署分别记录；具体准则与算法条件见正文及原文。
+\par\endgroup
+\end{table}
